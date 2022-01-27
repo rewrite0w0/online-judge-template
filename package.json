@@ -1,0 +1,21 @@
+{
+  "name": "online-judge-template",
+  "description": "online judge templates",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rewrite0w0/online-judge-template.git"
+  },
+  "keywords": [
+    "javscript",
+    "node",
+    "python",
+    "rust",
+    "ruby",
+    "online-judge-template"
+  ],
+  "author": "rewrite0w0",
+  "bugs": {
+    "url": "https://github.com/rewrite0w0/online-judge-template/issues"
+  },
+  "homepage": "https://github.com/rewrite0w0/online-judge-template#readme"
+}
